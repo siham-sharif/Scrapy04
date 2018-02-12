@@ -41,10 +41,10 @@
         <option value="$PROJECT_DIR$/quotes_spider/quotes_spider/settings.py" />
         <option value="$PROJECT_DIR$/quotes_spider/quotes_spider/spiders/test01.py" />
         <option value="$PROJECT_DIR$/quotes_spider/quotes_spider/spiders/test02.py" />
-        <option value="$PROJECT_DIR$/quotes_spider/quotes_spider/spiders/test03.py" />
         <option value="$PROJECT_DIR$/quotes_spider/quotes_spider/items.py" />
         <option value="$PROJECT_DIR$/quotes_spider/quotes_spider/spiders/itest.py" />
         <option value="$PROJECT_DIR$/quotes_spider/quotes_spider/pipelines.py" />
+        <option value="$PROJECT_DIR$/quotes_spider/quotes_spider/spiders/test03.py" />
       </list>
     </option>
   </component>
