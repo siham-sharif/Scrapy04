@@ -21,7 +21,6 @@ class Test03Spider(Spider):
                                                    'password' : 'bar',
                                                    'username' : 'foo'},
                                          callback=self.scrape_home_page
-
        )
 
     def scrape_home_page(self, response):
